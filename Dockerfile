@@ -1,2 +1,2 @@
-From nginx
-Add . /usr/share/nginx/html
+FROM nginx
+ADD . /usr/share/nginx/html
